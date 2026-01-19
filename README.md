@@ -1,7 +1,8 @@
 # OWASP-ZAP
 ## Hands-on DAST Lab with Juice Shop
 
-![alt text](image.png)
+<img width="311" height="162" alt="image" src="https://github.com/user-attachments/assets/c99bb4e6-fbd9-47a1-b892-4eb603e82e8d" />
+
 
 This repository demonstrates Dynamic Application Security Testing (DAST) using OWASP ZAP against the intentionally vulnerable OWASP Juice Shop application.
 
